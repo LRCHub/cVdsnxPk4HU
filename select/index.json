@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ROB THE FRONTIER",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-09T19:43:44.858865Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ROB THE FRONTIER",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_ROB_THE_FRONTIER_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ROB THE FRONTIER",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/02_ROB_THE_FRONTIER_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rob the Frontier (Seven Deadly Sins: Nanatsu No Taizai)",
+      "artist": "Shayne Orok",
+      "has_synced": false,
+      "path": "select/03_Rob_the_Frontier_(Seven_Deadly_Sins__Nanatsu_No_Taizai)_Shayne_Orok.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rob the Frontier (Short Version)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/04_Rob_the_Frontier_(Short_Version)_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ROB THE FRONTIER(short ver.)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/05_ROB_THE_FRONTIER(short_ver.)_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ROB THE FRONTIER (short ver.)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/06_ROB_THE_FRONTIER_(short_ver.)_UVERworld.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ROB THE FRONTIER",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_ROB_THE_FRONTIER_UVERworld.txt"
+    }
+  ]
+}
